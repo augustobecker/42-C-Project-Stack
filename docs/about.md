@@ -1,0 +1,1 @@
+# About 42-C-Project stack
